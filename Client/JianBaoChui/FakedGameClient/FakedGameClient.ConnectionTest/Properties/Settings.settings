@@ -1,0 +1,75 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FakedGameClient.ConnectionTest.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.16.223</Value>
+    </Setting>
+    <Setting Name="Port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8888</Value>
+    </Setting>
+    <Setting Name="ConnectCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0001^0</Value>
+    </Setting>
+    <Setting Name="BaoCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0003^2</Value>
+    </Setting>
+    <Setting Name="SignCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0002^00</Value>
+    </Setting>
+    <Setting Name="JianCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0003^1</Value>
+    </Setting>
+    <Setting Name="ChuiCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0003^3</Value>
+    </Setting>
+    <Setting Name="EOF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\r\n</Value>
+    </Setting>
+    <Setting Name="WatchingCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0006^0</Value>
+    </Setting>
+    <Setting Name="QuitGameCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0000^0</Value>
+    </Setting>
+    <Setting Name="BetCmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^{0}^{1}^0004^{2}</Value>
+    </Setting>
+    <Setting Name="WaitingTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AuthCode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">XXX</Value>
+    </Setting>
+    <Setting Name="ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0223</Value>
+    </Setting>
+    <Setting Name="ResponseSeparator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">|</Value>
+    </Setting>
+    <Setting Name="DataSeparator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">^</Value>
+    </Setting>
+    <Setting Name="PlayerSeparator" Type="System.String" Scope="User">
+      <Value Profile="(Default)">@P@</Value>
+    </Setting>
+    <Setting Name="ShowSocketLog" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="GameStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^GM^GM^0010^0</Value>
+    </Setting>
+    <Setting Name="GameEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ResetData" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^GM^GM^0012^0</Value>
+    </Setting>
+    <Setting Name="BetStart" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^GM^GM^0013^0</Value>
+    </Setting>
+    <Setting Name="BetEnd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">yang^GM^GM^0013^1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

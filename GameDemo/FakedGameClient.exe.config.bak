@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="FakedGameClient.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <FakedGameClient.Properties.Settings>
+            <setting name="Ip" serializeAs="String">
+                <value>192.168.16.103</value>
+            </setting>
+            <setting name="Port" serializeAs="String">
+                <value>8888</value>
+            </setting>
+            <setting name="ConnectCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0001^00</value>
+            </setting>
+            <setting name="BaoCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0003^01</value>
+            </setting>
+            <setting name="SignCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0002^00</value>
+            </setting>
+            <setting name="JianCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0003^02</value>
+            </setting>
+            <setting name="ChuiCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0003^03</value>
+            </setting>
+            <setting name="EOF" serializeAs="String">
+                <value>@END@</value>
+            </setting>
+            <setting name="WatchingCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0005^00</value>
+            </setting>
+            <setting name="QuitGameCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0000^00</value>
+            </setting>
+            <setting name="BetCmd" serializeAs="String">
+                <value>yang^{0}^{1}^0004^1000</value>
+            </setting>
+            <setting name="ThreadCount" serializeAs="String">
+                <value>20</value>
+            </setting>
+            <setting name="IsMulti" serializeAs="String">
+                <value>False</value>
+            </setting>
+        </FakedGameClient.Properties.Settings>
+    </userSettings>
+</configuration>guration>

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FakedGameClient.CmdGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CmdFilePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\Workspace\Work\_HappyView\野球拳EX\源码\PythonApplication1\PythonApplication1\broadcastcmd.txt</Value>
+    </Setting>
+    <Setting Name="Cmd" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
